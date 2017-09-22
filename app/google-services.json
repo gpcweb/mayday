@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "447789256612",
+    "firebase_url": "https://fir-test-5f394.firebaseio.com",
+    "project_id": "fir-test-5f394",
+    "storage_bucket": "fir-test-5f394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447789256612:android:48d7f16587c0ffc9",
+        "android_client_info": {
+          "package_name": "cl.oktech.wood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447789256612-k4pudkmen5u9eusplg7k2u6ljv3t33rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AEZGH84fG5zg988jZUrQKvhu1DV5t6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

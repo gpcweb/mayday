@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="100dp"
+              android:orientation="vertical"
+              android:paddingBottom="@dimen/vertical_padding"
+              android:paddingLeft="@dimen/horizontal_padding"
+              android:paddingRight="@dimen/horizontal_padding"
+              android:paddingTop="@dimen/vertical_padding">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="80"
+        android:text="Esta acción puede tardar unos segundos, por favor espera..."
+        android:textColor="@android:color/black"
+        android:textSize="16sp"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="20"
+        android:indeterminate="true"/>
+</LinearLayout>

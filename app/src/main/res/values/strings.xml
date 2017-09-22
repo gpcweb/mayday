@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wood</string>
+    <string name="orders_map_title">Mapa de Ordenes</string>
+
+    <!-- Login activity texts -->
+    <string name="login_title">Iniciando Sesión</string>
+    <string name="valid_email_and_password">Por favor ingresa un correo y password validos.</string>
+    <string name="no_network_available">No hay conexión disponible, por favor intenta mas tarde.</string>
+    <string name="on_failure_login">Algo salio mal al momento de intentar iniciar sesión, por favor intenta mas tarde.</string>
+
+    <!-- Dashboard activity texts -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="open_wo">OT Abiertas</string>
+    <string name="closed_wo">OT Cerradas</string>
+
+    <!-- Access texts -->
+    <string name="declined_access">Denegaste el acceso.</string>
+    <string name="grant_access">Por favor concede el permiso solicitado.</string>
+</resources>

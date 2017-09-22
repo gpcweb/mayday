@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/callClient"
+        android:icon="@drawable/ic_contact_phone"
+        android:title="Call client"
+        app:showAsAction="ifRoom"/>
+</menu>
